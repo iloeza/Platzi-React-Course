@@ -1,0 +1,11 @@
+.Badge-item {
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10);
+    border-radius: 8px 8px 8px 8px;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.Badge-item>li{
+    height: 100%;
+}
